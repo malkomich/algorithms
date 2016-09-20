@@ -1,0 +1,39 @@
+JUAN
+JJUAN
+Distancia = 1
+Comparaciones: 36 Asignaciones: 31
+Operaciones:
+- Copiar J
+- Insert J
+- Copiar U
+- Copiar A
+- Copiar N
+
+INTEGER
+ENTERO
+Distancia = 4
+Comparaciones: 100 Asignaciones: 88
+Operaciones:
+- Sustituir I por E
+- Copiar N
+- Copiar T
+- Copiar E
+- Borrar G
+- Sustituir E por R
+- Sustituir R por O
+
+PLASMA
+ALTRUISMO
+Distancia = 6
+Comparaciones: 184 Asignaciones: 159
+Operaciones:
+- Sustituir P por A
+- Copiar L
+- Insert T
+- Insert R
+- Insert U
+- Sustituir A por I
+- Copiar S
+- Copiar M
+- Sustituir A por O
+
